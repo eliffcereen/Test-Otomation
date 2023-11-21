@@ -16,11 +16,10 @@ This project represents an initiative to streamline and enhance testing procedur
 As this is an internally used project and not intended for general public use, installation details are not provided. The repository serves more as a reference or a showcase of the project's capabilities.
 
 ## Dependencies
-Given that the project is written in JavaScript, it likely depends on several Node.js modules. Common modules for such projects might include:
+The project primarily uses JavaScript and is built with various Node.js modules. Key dependencies include:
 - Mocha/Chai for testing.
-- Selenium WebDriver for browser automation.
+- XPath for navigating and selecting nodes in HTML/XML documents, replacing the need for Selenium WebDriver.
 - Express.js for any web server functionality.
-(Note: These are speculative and based on common practices in test automation projects.)
 
 ## Contributing
 Contributions to the project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
